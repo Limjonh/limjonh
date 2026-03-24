@@ -13,7 +13,7 @@ Acesse meu portfólio em:
   "avatar_url": "https://avatars.githubusercontent.com/u/110689450?v=4",
   "website": "",
   "githubUser": "Limjonh",
-  "linkedinUser": "https://www.linkedin.com/in/jo%C3%A3opedrolimaa/",
+  "linkedinUser": "www.linkedin.com/in/jo%C3%A3opedrolimaa/",
   "about": "Engenheiro de Software com experiência em automação de processos, integração de sistemas e desenvolvimento de soluções orientadas a dados. Atuação com Python, Power Platform e manipulação de dados para construção de aplicações, dashboards e fluxos automatizados. Foco em escalabilidade, eficiência e boas práticas de desenvolvimento.",
   "showStars": true,
   "showFollowers": true,
